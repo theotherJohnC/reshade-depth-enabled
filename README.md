@@ -1,4 +1,4 @@
-ReShade
+ReShade (README from the original author crosire)
 =======
 
 This is a generic post-processing injector for games and video software. It exposes an automated way to access both frame color and depth information and a custom shader language called ReShade FX to write effects like ambient occlusion, depth of field, color correction and more which work everywhere.
